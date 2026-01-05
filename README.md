@@ -13,6 +13,7 @@
 
 
 ## Prerequisite
+Si tratta di un fork. Onori all'autore.
 In order to use this Integration you need:
 
 1. ISG device connected to the heatpump and your local network
@@ -70,3 +71,4 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Paul%20Frank-green
 [releases-shield]: https://img.shields.io/github/v/release/pail23/stiebel_eltron_isg_component
 [releases]: https://github.com/pail23/stiebel_eltron_isg/releases
+
