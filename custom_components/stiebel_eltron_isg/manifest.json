@@ -2,14 +2,14 @@
   "domain": "stiebel_eltron_isg",
   "name": "Stiebel Eltron ISG",
   "codeowners": [
-    "@pail23"
+    "@pail23", "elenio72"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/pail23/stiebel_eltron_isg_component",
+  "documentation": "https://github.com/elenio72/stiebel_eltron_isg_component_tt",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/pail23/stiebel_eltron_isg_component/issues",
+  "issue_tracker": "https://github.com/elenio72/stiebel_eltron_isg_component_tt/issues",
   "requirements": [
     "pystiebeleltron>=0.2.3"
   ],
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
