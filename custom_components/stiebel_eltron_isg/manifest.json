@@ -2,7 +2,7 @@
   "domain": "stiebel_eltron_isg_extended_modbus",
   "name": "Stiebel Eltron ISG Extended modbus",
   "codeowners": [
-    "@pail23", "elenio72"
+    "elenio72"
   ],
   "config_flow": true,
   "documentation": "https://github.com/elenio72/stiebel_eltron_isg_component_tt",
