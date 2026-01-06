@@ -1,6 +1,6 @@
 {
-  "domain": "stiebel_eltron_isg",
-  "name": "Stiebel Eltron ISG",
+  "domain": "stiebel_eltron_isg_extended_modbus",
+  "name": "Stiebel Eltron ISG Extended modbus",
   "codeowners": [
     "@pail23", "elenio72"
   ],
